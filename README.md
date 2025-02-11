@@ -7,6 +7,9 @@ Este repositório reúne dois projetos demonstrando o uso do módulo PWM do RP20
 
 ---
 
+## Vídeo de ensaio
+https://drive.google.com/file/d/1qZyfesAod-aIJyJOEBkLcyjyoANO_O6X/view?usp=drivesdk
+
 ## Visão Geral
 
 Este repositório contém duas implementações distintas:
